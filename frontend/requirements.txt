@@ -1,0 +1,5 @@
+streamlit
+requests
+plotly
+pypdf
+audio_recorder_streamlit
